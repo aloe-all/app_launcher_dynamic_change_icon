@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicIcon</string>
+    <string name="app_name_activity">act</string>
+    <string name="app_name_second">second</string>
+</resources>
